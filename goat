@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html 
+<head>
+	<title>Google</title>
+	<meta charset="utf-8"> 
+	<script type="text/javascript">
+		var you = "Ты казло";
+		alert(you);
+
+	</script>
+</head>
+<body> 
+	<p><img src="goat.jpg" alt="goat"></p>
+</body>
+</html>
